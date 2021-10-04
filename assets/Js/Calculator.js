@@ -5,6 +5,9 @@ class Calculator {
       this.clear()
     }
   
+    
+//     This function will clear the all the input values given in the place.
+    
     clear() {
       this.currentOperand = ''
       this.previousOperand = ''
