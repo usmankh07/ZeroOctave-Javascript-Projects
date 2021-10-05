@@ -22,7 +22,7 @@
 # About❓
 Getting started with web development? What else would be better than practising it.
 
-So welcome developer. You are at right place.😊
+So welcome developers. You are at right place.😊
 
 ZeroOctave Javascript Projects provide some awesome web development projects to work upon and enhance your skills.
 
